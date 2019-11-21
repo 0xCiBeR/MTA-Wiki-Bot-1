@@ -1,0 +1,22 @@
+{
+  "name": "mta-wiki-bot",
+  "version": "1.0.0",
+  "description": "This is a NodeJS/discord.js based Wiki Bot for Multi Theft Auto Discord Community.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deihim007/MTA-Wiki-Bot.git"
+  },
+  "author": "Deihim007",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Deihim007/MTA-Wiki-Bot/issues"
+  },
+  "homepage": "https://github.com/Deihim007/MTA-Wiki-Bot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
